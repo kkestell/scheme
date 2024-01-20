@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheme", "Scheme\Scheme.csproj", "{DBA2E674-799B-4940-8E60-7614E4BE261A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheme.Tests", "Scheme.Tests\Scheme.Tests.csproj", "{FB2E19FA-C603-4B99-983E-D4563E620525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBA2E674-799B-4940-8E60-7614E4BE261A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA2E674-799B-4940-8E60-7614E4BE261A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA2E674-799B-4940-8E60-7614E4BE261A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA2E674-799B-4940-8E60-7614E4BE261A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB2E19FA-C603-4B99-983E-D4563E620525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2E19FA-C603-4B99-983E-D4563E620525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2E19FA-C603-4B99-983E-D4563E620525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2E19FA-C603-4B99-983E-D4563E620525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
